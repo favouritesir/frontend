@@ -1,0 +1,8 @@
+.Shop{
+    display: flex;
+}
+.Shop .Product-container{
+    width: 70vw;
+    margin: 0 3px 0 5px;
+    border-right: 1px solid lightgray;
+}
